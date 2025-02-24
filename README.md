@@ -1,4 +1,4 @@
-# 👋 Olá! Sou a Maria Gabriella Xavier Puccinelli  
+#  Olá! Sou a Maria Gabriella Xavier Puccinelli  
 
 💻 **Sobre mim:**  
 - 🎓 Formada em Técnico em Informática pelo Centro Municipal de Educação Profissional Osmar Passarelli Silveira  
