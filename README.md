@@ -1,7 +1,7 @@
 #  Olá! Sou a Maria Gabriella Xavier Puccinelli  
 
 💻 **Sobre mim:**  
-- 🎓 Formada em Técnico em Informática pelo Centro Municipal de Educação Profissional Osmar Passarelli Silveira  
+- 🎓 Formada em Técnico em Informática pelo Centro Municipal de Educação Profissional Osmar Passarelli Silveira-CEMEP 
 - 📚 Cursando Engenharia de Software na PUC-Campinas  
 - 🚀 Apaixonada por tecnologia e desenvolvimento de software  
 
